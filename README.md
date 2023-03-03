@@ -1,0 +1,1 @@
+A simple minimalistic webpack+react example project
